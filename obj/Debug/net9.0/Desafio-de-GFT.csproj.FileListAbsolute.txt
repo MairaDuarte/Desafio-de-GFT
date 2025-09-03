@@ -1,0 +1,15 @@
+C:\Projetos\Desafio-de-GFT\bin\Debug\net9.0\Desafio-de-GFT.exe
+C:\Projetos\Desafio-de-GFT\bin\Debug\net9.0\Desafio-de-GFT.deps.json
+C:\Projetos\Desafio-de-GFT\bin\Debug\net9.0\Desafio-de-GFT.runtimeconfig.json
+C:\Projetos\Desafio-de-GFT\bin\Debug\net9.0\Desafio-de-GFT.dll
+C:\Projetos\Desafio-de-GFT\bin\Debug\net9.0\Desafio-de-GFT.pdb
+C:\Projetos\Desafio-de-GFT\obj\Debug\net9.0\Desafio-de-GFT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Desafio-de-GFT\obj\Debug\net9.0\Desafio-de-GFT.AssemblyInfoInputs.cache
+C:\Projetos\Desafio-de-GFT\obj\Debug\net9.0\Desafio-de-GFT.AssemblyInfo.cs
+C:\Projetos\Desafio-de-GFT\obj\Debug\net9.0\Desafio-de-GFT.csproj.CoreCompileInputs.cache
+C:\Projetos\Desafio-de-GFT\obj\Debug\net9.0\Desafio-de-GFT.sourcelink.json
+C:\Projetos\Desafio-de-GFT\obj\Debug\net9.0\Desafio-de-GFT.dll
+C:\Projetos\Desafio-de-GFT\obj\Debug\net9.0\refint\Desafio-de-GFT.dll
+C:\Projetos\Desafio-de-GFT\obj\Debug\net9.0\Desafio-de-GFT.pdb
+C:\Projetos\Desafio-de-GFT\obj\Debug\net9.0\Desafio-de-GFT.genruntimeconfig.cache
+C:\Projetos\Desafio-de-GFT\obj\Debug\net9.0\ref\Desafio-de-GFT.dll
